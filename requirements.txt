@@ -1,0 +1,14 @@
+torch
+sentence_transformers
+chromadb
+python-dotenv==1.1.1
+langchain-groq
+fastapi==0.119.0
+uvicorn[standard]==0.38.0
+python-multipart==0.0.20
+python-dotenv==1.1.1
+pydantic-settings==2.11.0
+aiofiles==25.1.0
+langchain==1.0.2
+PyMuPDF==1.26.5
+langchain-community==0.4
